@@ -47,7 +47,7 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 
 ### Assignments (25%)
 
-There are two assignments. One is a weekly assignment and the other is a mini six-weeks kaggle competition. Students are expected to complete these two individual assignment to gauge their understanding of the course materials so as to prepare them for their Group Project and future data science tasks. Through lectures and programming assignments students will learn the necessary engineering tricks for making neural networks work on practical problems. Details of the individual assignment and Kaggle competition will be announced later. 
+There are two assignments. One is a weekly assignment and the other is a mini three-weeks kaggle competition. Students are expected to complete these two individual assignment to gauge their understanding of the course materials so as to prepare them for their Group Project and future data science tasks. Through lectures and programming assignments students will learn the necessary engineering tricks for making neural networks work on practical problems. Details of the individual assignment and Kaggle competition will be announced later. 
 
 - **Credit**:
   * Assignment 1 (10%): 
@@ -78,11 +78,11 @@ Class Venue: LT 15
 Fri 01/17 | Introduction to Machine Learning | TBU | N.A.
 Fri 01/24 | Machine Learning Practice | TBU | <font color='SeaGreen'>Form your team</font>
 Fri 01/31 | Explainability-Accuracy Tradeoff| TBU | N.A.
-Fri 02/07 | Bayesian Learning: Navie Bayes | TBU | <font color='SeaGreen'>Kaggle Competition Starts</font>
+Fri 02/07 | Bayesian Learning: Navie Bayes | TBU | N.A.
 Fri 02/14 | Bayesian Learning: Hidden Markov Model |TBU | <font color='SeaGreen'>Group Project Proposal Due</font> 
 Fri 02/21 | From Logistic Regression to Deep Learning | TBU | <font color='SeaGreen'>Individual Assignment Release</font>
-Fri 02/28 |  Recess Week | N.A. | N.A.
-Fri 03/06 | Representation Learning: Autoencoder | TBU | <font color='SeaGreen'>In-class Midterm Exam</font>
+Fri 02/28 |  Recess Week | N.A. | <font color='SeaGreen'>Individual Assignment Due</font>
+Fri 03/06 | Representation Learning: Autoencoder | TBU | <font color='SeaGreen'>Kaggle Competition Starts</font>
 Fri 03/13 | Representation learning: Word2Vec  | TBU | <font color='SeaGreen'>In-class Midterm Exam</font>
 Fri 03/20 | CNN and RNN | TBU | <font color='SeaGreen'>Kaggle Competition Ends</font>
 Fri 03/27 | Generative Model  | TBU| N.A.
