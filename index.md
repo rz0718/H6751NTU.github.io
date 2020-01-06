@@ -35,7 +35,7 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 - [Syllabus](material/syllabus.md)
 - [Data Science/Machine Learning](material/dspractice.md)
 - [Final project](project/project.md)
-- [IVLE](https://luminus.nus.edu.sg/): **please check that you are enrolled.**
+- [LumiNUS](https://luminus.nus.edu.sg/): **please check that you are enrolled.**
 - [Honor Code](honorcode.md)
 
 ## <font color='DarkOrange'>Announcement</font>
