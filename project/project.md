@@ -2,7 +2,7 @@
 
 
 As a significant portion of your grade, the Course Project provide you the chance to flex your newly acquired skills toward an application of your choosing. What is more, people from different background are encouraged to form a team. 
-More detailed instructions and the guidelines for this course project can be referred [here](project.pdf)
+More detailed instructions and the guidelines for this course project will be announced soon.
 
 #### IDEAS INSPRIATION
 
