@@ -45,16 +45,16 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 
 ## <font color='DarkOrange'>Assessment</font>
 
-### Assignments (25%)
+### Assignments (20%)
 
 There are two assignments. One is a weekly assignment and the other is a mini two-weeks Kaggle competition. Students are expected to complete these two individual assignment to gauge their understanding of the course materials so as to prepare them for their Group Project and future data science tasks. Through lectures and programming assignments students will learn the necessary engineering tricks for making neural networks work on practical problems. Details of the individual assignment and Kaggle competition will be announced later. 
 
 - **Credit**:
   * Assignment 1 (10%): 
-  * Kaggle Competition (15%)
+  * Kaggle Competition (10%)
  
 
-### Midterm Exam (25%)
+### Midterm Exam (30%)
 
 Students are expected to attend the Midterm Examination. It will be open-book and open-notes. It will focus on the application of the materials covered in class. The mode of the delivery of the examination will be determined and announced later.
 
