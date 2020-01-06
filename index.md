@@ -35,19 +35,20 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 - [Syllabus](material/syllabus.md)
 - [Data Science/Machine Learning](material/dspractice.md)
 - [Final project](project/project.md)
-- [IVLE](https://ivle.nus.edu.sg/); used to submit your assignments (via workbin) and send important emails; **please check that you are enrolled.**
+- [IVLE](https://luminus.nus.edu.sg/): **please check that you are enrolled.**
 - [Honor Code](honorcode.md)
 
 ## <font color='DarkOrange'>Announcement</font>
 
-> - *2020-01-17*: Welcome to BT5153. We hope you will enjoy it!
+
 > - *2019-12-01*: ~~this site has been public.~~
+
 
 ## <font color='DarkOrange'>Assessment</font>
 
 ### Assignments (20%)
 
-There are two assignments. One is a weekly assignment and the other is a mini two-weeks Kaggle competition. Students are expected to complete these two individual assignment to gauge their understanding of the course materials so as to prepare them for their Group Project and future data science tasks. Through lectures and programming assignments students will learn the necessary engineering tricks for making neural networks work on practical problems. Details of the individual assignment and Kaggle competition will be announced later. 
+There are two assignments. One is a weekly assignment and the other is a mini two-weeks Kaggle competition. Students are expected to complete these two individual assignment to gauge their understanding of the course materials so as to prepare them for their Group Project and future data science tasks. Through lectures and programming assignments students will learn the necessary engineering tricks for making neural networks work on practical problems. Details of the individual assignment and Kaggle competition will be updated later. 
 
 - **Credit**:
   * Assignment 1 (10%): 
