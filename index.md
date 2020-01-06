@@ -47,7 +47,7 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 
 ### Assignments (25%)
 
-There are two assignments. One is a weekly assignment and the other is a mini three-weeks kaggle competition. Students are expected to complete these two individual assignment to gauge their understanding of the course materials so as to prepare them for their Group Project and future data science tasks. Through lectures and programming assignments students will learn the necessary engineering tricks for making neural networks work on practical problems. Details of the individual assignment and Kaggle competition will be announced later. 
+There are two assignments. One is a weekly assignment and the other is a mini two-weeks Kaggle competition. Students are expected to complete these two individual assignment to gauge their understanding of the course materials so as to prepare them for their Group Project and future data science tasks. Through lectures and programming assignments students will learn the necessary engineering tricks for making neural networks work on practical problems. Details of the individual assignment and Kaggle competition will be announced later. 
 
 - **Credit**:
   * Assignment 1 (10%): 
