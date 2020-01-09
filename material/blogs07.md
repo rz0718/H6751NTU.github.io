@@ -6,4 +6,6 @@
 
 3. [LeCun's comments](https://twitter.com/ylecun/status/1065836563614105601?lang=en)
 
-4. 
+4. [Prototyping a Recommender System ](https://towardsdatascience.com/prototyping-a-recommender-system-step-by-step-part-1-knn-item-based-collaborative-filtering-637969614ea)
+
+5. [Wide & Deep Learning for Recommender Systems](https://ai.googleblog.com/2016/06/wide-deep-learning-better-together-with.html)
