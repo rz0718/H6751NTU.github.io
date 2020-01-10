@@ -9,3 +9,5 @@
 4.  [Advanced Hyperparameter Tuning for Machine Learning](https://towardsdatascience.com/automated-machine-learning-hyperparameter-tuning-in-python-dfda59b72f8a)
 
 5. [Random Search for Hyper-Parameter Optimization](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)
+
+6. [Awesome Data Science with Python](https://github.com/r0f1/datascience)
