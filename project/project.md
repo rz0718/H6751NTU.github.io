@@ -10,7 +10,7 @@ You might look at recent deep learning publications from top-tier machine learni
 
 - [NeurIPS](https://neurips.cc/): Neural Information Processing Systems
 - [ICML](https://icml.cc/): International Conference on Machine Learning
-- [Analyzing CS trends from ICML and NIPS Research Papers](https://goo.gl/RaUUDV)
+- [Analyzing CS trends from ICML and NIPS Research Papers](https://goo.gl/RaUUDV)s
 - [EMNLP](https://www.emnlp-ijcnlp2019.org/): Empirical Methods in Natural Language Processing
 - [ACL](http://www.acl2019.org/EN/index.xhtml): Association for Computational Linguistics
 - [Kaggle challenges](https://www.kaggle.com): An online machine learning competition website
@@ -38,7 +38,7 @@ You might look at recent deep learning publications from top-tier machine learni
 
 #### Last Year Analysis
 
-Here, you may find some analysis upon the last year reports. It basically consists of two steps.
+Here, you may find some analysis upon the last year reports. It basically consists of two steps:
 
 - [PDF Extraction](pyp_analyze/PDF_Extraction.html)
 
