@@ -36,3 +36,10 @@ You might look at recent deep learning publications from top-tier machine learni
 - [Spring 2020](2020fyp.md)
 - [Spring 2019](2019fyp.md)
 
+#### Last Year Analysis
+
+Here, you may find some analysis upon the last year reports. It basically consists of two steps.
+
+- [PDF Extraction](pyp_analyze/PDF_Extraction.html)
+
+- [Basic Text Analysis](pyp_analyze/Reprots_Analysis.html)
