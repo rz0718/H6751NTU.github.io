@@ -1,4 +1,12 @@
-## Week 6
+# Week 6
+
+## In-class Material
+
+1. [Slides](../slides/w6.pdf)
+
+2. [Notebook](../code/week6/week6.zip)
+
+### Extra Reading
 
 1. [A Simple Explanation to Neural Network and Implementation from scratch](https://victorzhou.com/blog/intro-to-neural-networks/)
 

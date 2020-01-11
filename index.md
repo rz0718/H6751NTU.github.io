@@ -9,11 +9,12 @@ This module provides students a deep overview of various advanced machine learni
 ### Contact Information:
 
 - Lecturer: [Zhao Rui](https://rzntu.github.io), [diszr@nus.edu.sg](mailto:diszr@nus.edu.sg)
-- TA: TBA
+- TA: Melvin Mok, [e0335789@u.nus.edu](mailto:e0335789@u.nus.edu)
+- TA: Sun Zhihao, [e0025739@u.nus.edu](mailto:e0025739@u.nus.edu)
 
 ### Prerequisites:
 
-- Basic knowledge in Python programing 
+- Basic knowledge in Python programing
 - Basic math knowledge
 - DSC5106 Foundation in Data Analytics I
 
@@ -77,16 +78,16 @@ Class Venue: LT 15
 **Date** |	**Topic** |	**Content** | **Assignment**
 :----:  | ------- | :----: | ---------------
 Fri 01/17 | Introduction to Machine Learning | [Link](note/blogs01.md) | N.A.
-Fri 01/24 | Machine Learning Practice | TBU | N.A.
-Fri 01/31 | Explainability-Accuracy Tradeoff| TBU | <font color='SeaGreen'>Form your team</font>
-Fri 02/07 | Bayesian Learning: Navie Bayes | TBU | N.A.
-Fri 02/14 | Bayesian Learning: Hidden Markov Model |TBU | <font color='SeaGreen'>Group Project Proposal Due</font> 
-Fri 02/21 | From Logistic Regression to Deep Learning | TBU | <font color='SeaGreen'>Individual Assignment Out</font>
+Fri 01/24 | Machine Learning Practice | LINK | N.A.
+Fri 01/31 | Explainability-Accuracy Tradeoff| LINK | <font color='SeaGreen'>Form your team</font>
+Fri 02/07 | Bayesian Learning: Navie Bayes | LINK | N.A.
+Fri 02/14 | Bayesian Learning: Hidden Markov Model |LINK | <font color='SeaGreen'>Group Project Proposal Due</font> 
+Fri 02/21 | From Logistic Regression to Deep Learning | LINK | <font color='SeaGreen'>Individual Assignment Out</font>
 Fri 02/28 |  Recess Week | N.A. | <font color='SeaGreen'>Individual Assignment Due</font>
-Fri 03/06 | Representation Learning: Autoencoder | TBU | <font color='SeaGreen'>Kaggle Start</font>
-Fri 03/13 | Representation learning: Word2Vec  | TBU | <font color='SeaGreen'>In-class Midterm Exam</font>
-Fri 03/20 | Convolutional Neural Networks: Why It Works| TBU | <font color='SeaGreen'>Kaggle Due</font>
-Fri 03/27 | Generative Model  | TBU| N.A.
+Fri 03/06 | Representation Learning: Autoencoder | LINK | <font color='SeaGreen'>Kaggle Start</font>
+Fri 03/13 | Representation learning: Word2Vec  | LINK | <font color='SeaGreen'>In-class Midterm Exam</font>
+Fri 03/20 | Convolutional Neural Networks: Why It Works| LINK | <font color='SeaGreen'>Kaggle Due</font>
+Fri 03/27 | Generative Model  | LINK| N.A.
 Fri 04/03 | Group Presentation 1 | N.A. | N.A.
 Fri 04/10 | Good Friday | N.A. | N.A.
 Fri 04/17 | Group Presentation 2 | N.A. | N.A.

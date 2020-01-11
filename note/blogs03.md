@@ -1,4 +1,12 @@
-## Week3
+# Week 3
+
+## In-class Material
+
+1. [Slides](../slides/w3.pdf)
+
+2. [Notebook](../code/week3/week3.zip)
+
+### Extra Reading
 
 1. [Guide to Ensembling Methods](https://www.kaggle.com/amrmahmoud123/1-guide-to-ensembling-methods)
 

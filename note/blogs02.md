@@ -1,4 +1,12 @@
-## Week2
+# Week 2
+
+## In-class Material
+
+1. [Slides](../slides/w2.pdf)
+
+2. [Notebook](../code/week2/week2.zip)
+
+### Extra Reading
 
 1.  [How Data Leakage Impacts Machine Learning Models](https://mlinproduction.com/data-leakage/)
 

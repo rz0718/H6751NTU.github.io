@@ -1,4 +1,12 @@
-## Week 5
+# Week 5
+
+## In-class Material
+
+1. [Slides](../slides/w5.pdf)
+
+2. [Notebook](../code/week5/week5.zip)
+
+### Extra Reading
 
 1. [Review: Math steals the show in quant legend’s bio](https://www.reuters.com/article/us-hedgefunds-renaissance-breakingviews/breakingviews-review-math-steals-the-show-in-quant-legends-bio-idUSKBN1XW1EA)
 

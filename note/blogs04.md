@@ -1,4 +1,12 @@
-## Week 4
+# Week 4
+
+## In-class Material
+
+1. [Slides](../slides/w4.pdf)
+
+2. [Notebook](../code/week4/week4.zip)
+
+### Extra Reading
 
 1. [Pandas on “Large Data” Processing](https://towardsdatascience.com/why-and-how-to-use-pandas-with-large-data-9594dda2ea4c)
 

@@ -1,4 +1,12 @@
-## Week 08
+# Week 8
+
+## In-class Material
+
+1. [Slides](../slides/w8.pdf)
+
+2. [Notebook](../code/week8/week8.zip)
+
+### Extra Reading
 
 1. [Word2Vec Tutorial based on Gensim](https://www.kaggle.com/pierremegret/gensim-word2vec-tutorial)
 
