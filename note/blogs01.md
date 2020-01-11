@@ -2,11 +2,9 @@
 
 ## In-class Material
 
-1. [Slides](../project/project.md)
+1. [Slides](../slides/w1_Intro_ML.pdf)
 
-2. [Notebook](../code/week1/01_Intro_Sklearn.html)
-
-3. [Code](../code/week1/week1.zip)
+2. [Notebook](../code/week1/week1.zip)
 
 ### Extra Reading
 
