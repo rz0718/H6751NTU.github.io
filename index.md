@@ -74,9 +74,9 @@ You are required to form a project group with 4-5 members. Students can form the
 
 Class Venue: LT 15
 
-**Date** |	**Topic** |	**Lecture** | **Assignment**
+**Date** |	**Topic** |	**Content** | **Assignment**
 :----:  | ------- | :----: | ---------------
-Fri 01/17 | Introduction to Machine Learning | TBU | N.A.
+Fri 01/17 | Introduction to Machine Learning | [Link](note/blogs01.md) | N.A.
 Fri 01/24 | Machine Learning Practice | TBU | N.A.
 Fri 01/31 | Explainability-Accuracy Tradeoff| TBU | <font color='SeaGreen'>Form your team</font>
 Fri 02/07 | Bayesian Learning: Navie Bayes | TBU | N.A.
