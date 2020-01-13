@@ -1,8 +1,7 @@
 ## Final Project
 
 
-As a significant portion of your grade, the Course Project provide you the chance to flex your newly acquired skills toward an application of your choosing. What is more, people from different background are encouraged to form a team. 
-More detailed instructions and the guidelines for this course project will be announced soon.
+As a significant portion of your grade, the Course Project provide you the chance to flex your newly acquired skills toward an application of your choosing. What is more, people from different background are encouraged to form a team. The detailed instructions and the guidelines for this course project could be found [here](BT5153_ProjectGuidelines_Grading Criteria.pdf).
 
 #### IDEAS INSPRIATION
 
