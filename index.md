@@ -66,8 +66,8 @@ You are required to form a project group with 4-5 members. Students can form the
 
 - **Credit**:
   * Project proposal (10%) 
-  * Project presentation (25%)
-  * Project final report (15%)
+  * Project presentation (20%)
+  * Project final report (20%)
 
 
 
