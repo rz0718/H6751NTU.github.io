@@ -85,7 +85,7 @@ Fri 02/14 | Bayesian Learning: Hidden Markov Model |LINK | <font color='SeaGreen
 Fri 02/21 | From Logistic Regression to Deep Learning | LINK | <font color='SeaGreen'>Individual Assignment Out</font>
 Fri 02/28 |  Recess Week | N.A. | <font color='SeaGreen'>Individual Assignment Due</font>
 Fri 03/06 | Representation Learning: Autoencoder | LINK | <font color='SeaGreen'>Kaggle Start</font>
-Fri 03/13 | Representation learning: Word2Vec  | LINK | <font color='SeaGreen'>In-class Midterm Exam</font>
+Fri 03/13 | Representation learning: Word2Vec   | LINK | <font color='SeaGreen'>In-class Midterm Exam</font>
 Fri 03/20 | Convolutional Neural Networks: Why It Works| LINK | <font color='SeaGreen'>Kaggle Due</font>
 Fri 03/27 | Is Machine Learning Dangerous?| LINK| N.A.
 Fri 04/03 | Group Presentation 1 | N.A. | N.A.
